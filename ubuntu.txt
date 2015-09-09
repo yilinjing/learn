@@ -1,0 +1,9 @@
+sudo pip install py-bcrypt
+sudo pip install concurrent
+sudo pip install futures
+
+
+#∞¥’’mysql
+sudo apt-get install libmysqld-dev
+sudo apt-get install libmysqlclient-dev
+sudo pip install mysql-python
